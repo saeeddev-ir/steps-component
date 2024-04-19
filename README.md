@@ -7,9 +7,12 @@
 
 
 
+
+https://github.com/saeeddev-ir/steps-component/assets/105293554/e3005dc5-38d8-4b00-842a-76303c7db866
+
+
+
 ![steps-component](https://github.com/saeeddev-ir/steps-component/assets/105293554/0b428082-32a6-4774-a069-4a5d800f9df6)
-
-
 
 
 🔗 [Demo Project](https://steps-component-red.vercel.app/)
